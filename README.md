@@ -35,7 +35,7 @@ Open PyCharm and follow these steps:
 ---
 
 ## **Requirements**
-- Python **3.7+**  
+- Python **3.11.9**  
 - OpenCV  
 - Mediapipe  
 - PyAutoGUI  
@@ -51,5 +51,5 @@ Open PyCharm and follow these steps:
 ---
 
 💡 **Contributions are welcome!** Feel free to fork and improve the project. 🚀  
-🔗 **GitHub Repo:** []  
+🔗 **GitHub Repo:** [https://github.com/iameshureddy/Hand-Gesture-Controlled-Virtual-Mouse]  
 
