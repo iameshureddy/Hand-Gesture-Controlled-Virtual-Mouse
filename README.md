@@ -1,7 +1,7 @@
 # Hand-Gesture-Controlled-Virtual-Mouse
 
  
-This project allows you to control the mouse cursor using **hand gestures** via a webcam. It utilizes **OpenCV, Mediapipe, and PyAutoGUI** for hand tracking and mouse control.  
+This project allows you to control the mouse cursor using **hand gestures** via a webcam. It utilizes **OpenCV, Mediapipe, and PyAutoGUI** for hand tracking and mouse control. Use PyCharm Platform. 
 
 
 
